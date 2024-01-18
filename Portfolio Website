@@ -41,7 +41,7 @@ p{
 body{
     background-color:lightyellow;
 }
- </style>
+</style>
 </head>
 <body>
     <div class="first">
